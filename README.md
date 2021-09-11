@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a private FiveM server project**
 
-- 💪 I also am working on **becoming a software tester & app developer**
+- 💪 I also am working on **becoming a software tester & mobile app developer**
 
 - 📫 How to reach me **bashengatv@gmail.com**
 
